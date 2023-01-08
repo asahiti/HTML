@@ -1,0 +1,33 @@
+body{
+
+background-color: rgb(206, 164, 102);
+
+}
+#logo{
+    color: rgb(78, 30, 30);
+    background-attachment: fixed;
+    size-adjust: 100%;
+    margin-left: 20px;
+}
+
+
+.imagess{
+    width: 200;
+    height: 230;
+}
+
+
+.images1 {
+    width: 200;
+    height: 230;
+}
+
+.images2{
+    width: 200;
+    height: 230;
+}
+
+#name {
+    color: rgb(211, 109, 62);
+    text-align: center;
+}

@@ -1,0 +1,26 @@
+body{
+background:#f8ddbf;
+font-family: 'Poppins' , sans-serif;
+
+}
+
+#form {   
+
+  width: 300px;
+  margin: 20vh auto 0 auto;
+  padding: 20px;
+  background-color: #a58560;
+  border-radius: 4px;
+  font-size: 12px;
+
+}
+
+#logo1 {
+    color: rgb(78, 30, 30);
+    background-attachment: fixed;
+    size-adjust: 100%;
+    margin-left: 20px;
+}
+
+
+
